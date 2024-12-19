@@ -11,7 +11,7 @@ pipeline {
             steps {
                 script {
                     // Add build steps here if needed (e.g., compiling code)
-                    echo 'Build step: Skipped for now.'
+                    echo 'Build step: Skippd for now.'
                 }
             }
         }
